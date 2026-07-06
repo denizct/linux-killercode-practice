@@ -1,39 +1,78 @@
-[0;32m=====================================[0m
-[0;32m   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  [0m
-[0;32m=====================================[0m
-[1;33m[1] Mevcut Çalışan Kullanıcı:[0m
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
 Şu anki aktif yetki: root
 -------------------------------------
-[1;33m[2] Disk Alanı Durumu:[0m
+[2] Disk Alanı Durumu:
 Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
 -------------------------------------
-[1;33m[3] Kritik Servislerin Durumu:[0m
-SSH Servisi: [0;32mAKTİF (Çalışıyor)[0m
-UFW Güvenlik Duvarı: [0;32mAKTİF (Güvenli)[0m
-[0;32m=====================================[0m
-[0;32m=====================================[0m
-[0;32m   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  [0m
-[0;32m=====================================[0m
-[1;33m[1] Mevcut Çalışan Kullanıcı:[0m
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
 Şu anki aktif yetki: root
 -------------------------------------
-[1;33m[2] Disk Alanı Durumu:[0m
+[2] Disk Alanı Durumu:
 Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
 -------------------------------------
-[1;33m[3] Kritik Servislerin Durumu:[0m
-SSH Servisi: [0;32mAKTİF (Çalışıyor)[0m
-UFW Güvenlik Duvarı: [0;32mAKTİF (Güvenli)[0m
-[0;32m=====================================[0m
-[0;32m=====================================[0m
-[0;32m   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  [0m
-[0;32m=====================================[0m
-[1;33m[1] Mevcut Çalışan Kullanıcı:[0m
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
 Şu anki aktif yetki: root
 -------------------------------------
-[1;33m[2] Disk Alanı Durumu:[0m
+[2] Disk Alanı Durumu:
 Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
 -------------------------------------
-[1;33m[3] Kritik Servislerin Durumu:[0m
-SSH Servisi: [0;32mAKTİF (Çalışıyor)[0m
-UFW Güvenlik Duvarı: [0;32mAKTİF (Güvenli)[0m
-[0;32m=====================================[0m
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
+Şu anki aktif yetki: root
+-------------------------------------
+[2] Disk Alanı Durumu:
+Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
+-------------------------------------
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
+Şu anki aktif yetki: root
+-------------------------------------
+[2] Disk Alanı Durumu:
+Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
+-------------------------------------
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
+=====================================
+   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  
+=====================================
+[1] Mevcut Çalışan Kullanıcı:
+Şu anki aktif yetki: root
+-------------------------------------
+[2] Disk Alanı Durumu:
+Toplam Alan: 19G, Kullanılan: 5.4G, Boş: 14G (Kullanım: 29%)
+-------------------------------------
+[3] Kritik Servislerin Durumu:
+SSH Servisi: AKTİF (Çalışıyor)
+UFW Güvenlik Duvarı: AKTİF (Güvenli)
+=====================================
