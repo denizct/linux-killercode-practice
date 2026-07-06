@@ -1,8 +1,8 @@
 #!/bin/bash
 
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-NC='\033[0m'
+GREEN=""
+YELLOW=""
+NC=''
 
 echo -e "${GREEN}=====================================${NC}"
 echo -e "${GREEN}   SUNUCU SAĞLIK VE GÜVENLİK PANELİ  ${NC}"
