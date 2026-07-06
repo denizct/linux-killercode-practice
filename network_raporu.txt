@@ -1,0 +1,23 @@
+=====================================
+       CANLI AĞ VE PORT DENETLEYİCİ    
+=====================================
+[1] İnternet Bağlantı Durumu (Ping Testi):
+Bağlantı: AKTİF (İnternet erişimi var)
+-------------------------------------
+[2] Dinlenen (Listen) Aktif Portlar ve Servisler:
+Netid State  Recv-Q Send-Q                      Local Address:Port  Peer Address:PortProcess
+tcp   LISTEN 0      4096                              0.0.0.0:22         0.0.0.0:*          
+tcp   LISTEN 0      4096                           127.0.0.54:53         0.0.0.0:*          
+tcp   LISTEN 0      128                               0.0.0.0:40200      0.0.0.0:*          
+tcp   LISTEN 0      511                               0.0.0.0:40205      0.0.0.0:*          
+tcp   LISTEN 0      4096                        127.0.0.53%lo:53         0.0.0.0:*          
+tcp   LISTEN 0      4096                            127.0.0.1:35821      0.0.0.0:*          
+tcp   LISTEN 0      4096                                 [::]:22            [::]:*          
+tcp   LISTEN 0      4096                                    *:40305            *:*          
+tcp   LISTEN 0      4096                                    *:40300            *:*          
+-------------------------------------
+[3] Aktif Ağ Arayüzleri (Network Interfaces):
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp1s0           UP             172.30.1.2/24 fe80::b6c7:6497:6714:dd58/64 
+docker0          DOWN           172.17.0.1/16 
+=====================================
