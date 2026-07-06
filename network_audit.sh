@@ -15,13 +15,11 @@ fi
 
 echo "-------------------------------------"
 echo "[2] Dinlenen (Listen) Aktif Portlar ve Servisler:"
-# ss komutu ile TCP ve UDP dinlenen portları, servis isimleriyle beraber listeliyoruz
-# Soket çöplerini ayıklayıp sadece temiz başlıkları ve portları çeker
 ss -tuln | awk 'NR==1 || /LISTEN/'
 
 echo "-------------------------------------"
 echo "[3] Aktif Ağ Arayüzleri (Network Interfaces):"
-# Sunucudaki ağ kartlarını ve IP adreslerini sade bir şekilde listeler
+
 ip -br addr
 
 echo "====================================="
