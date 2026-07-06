@@ -5,7 +5,7 @@ echo "   SUNUCU KULLANICI GÜVENLİK DENETİMİ  "
 echo "====================================="
 
 echo "[1] Sistemdeki Gerçek Kullanıcılar:"
-grep -E '/bash|/sh' /etc/passwd | cut -d: -f1,7 | awk -F: '{print "Kullanıcı: " $1 " -> Kabuk: " $2}'
+grep -E '/bash|/sh' /etc/passwd | cut -d: -f1,7 | awk -F: '{print "Kullanıcı: " $1 " -> Shell: " $2}'
 
 echo "-------------------------------------"
 echo "[2] Sudo (Yönetici) Yetkisine Sahip Hesaplar:"

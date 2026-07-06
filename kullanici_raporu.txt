@@ -1,0 +1,10 @@
+=====================================
+   SUNUCU KULLANICI GÜVENLİK DENETİMİ  
+=====================================
+[1] Sistemdeki Gerçek Kullanıcılar:
+Kullanıcı: root -> Shell: /bin/bash
+Kullanıcı: ubuntu -> Shell: /bin/bash
+-------------------------------------
+[2] Sudo (Yönetici) Yetkisine Sahip Hesaplar:
+ubuntu
+=====================================
